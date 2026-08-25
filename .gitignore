@@ -1,0 +1,5 @@
+/bin/
+/pgdoor
+*.test
+*.out
+userlist.txt
